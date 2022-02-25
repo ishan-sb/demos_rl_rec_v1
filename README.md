@@ -33,3 +33,7 @@ This package requires a few other things to work, with hdf5 being the most annoy
 	```
 
 If you run into blockers doing this, please ask for help!
+
+
+# Screenshot
+![Screenshot](screenshot.png)
