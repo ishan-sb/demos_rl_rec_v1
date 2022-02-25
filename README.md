@@ -1,5 +1,5 @@
 
-# Getting the data:
+# Getting the data
 
 There are two ways:
 1) The csv's are from the [Kaggle Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset).  You can download it and unzip it into this folder.  Then, run `python3 prep_data.py` to generate the relevant files needed for the RL run
