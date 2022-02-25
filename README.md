@@ -12,8 +12,9 @@ There are two ways:
 
 # Software setup on Mac OS M1
 - Python 3.9
-- See next section about the sentence-transformers package
+- See next section about the sentence-transformers package.  You can ignore the sentence-transformers package if you get the data from s3
 - `pip install inquirer tabulate torch numpy pandas sentence-transformers`
+	- you can remove `pandas` and `sentence-transformers` if you download the data from s3
 
 ## sentence-transformers package
 This package requires a few other things to work, with hdf5 being the most annoying
