@@ -12,8 +12,7 @@ There are two ways:
 
 # Software setup on Mac OS M1
 - Python 3.9
-- `brew install hdf5`
-- `brew install 
+- See next section about the sentence-transformers package
 - `pip install inquirer tabulate torch numpy pandas sentence-transformers`
 
 ## sentence-transformers package
